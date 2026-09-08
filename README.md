@@ -1,43 +1,39 @@
 # Hi, I'm Gustavo Mautoni 👋
 
-I'm a Software Engineering student from Brazil, focused on building a career in Software Development, Backend, QA Automation, and DevOps in training.
+Software Developer focused on **Backend Development with Python**, with professional experience involving process automation, corporate solutions, data analysis, and business process improvement.
 
-I have experience with process automation, data analysis, continuous improvement, documentation, and digital solutions using tools such as Power Platform and Excel.
+My current technical focus is building strong foundations in **Python, Object-Oriented Programming, SQL, relational databases, REST APIs, and Git/GitHub**, applying these concepts through practical software projects.
 
-Currently, I'm studying and building projects with Python, JavaScript, React Native, SQL, Git/GitHub, REST APIs, software testing, and automation.
-
-## 🚀 Main interests
-
-* Junior Software Development
-* Backend Development
-* QA Automation
-* Process Automation
-* DevOps in training
-
-## 🛠️ Technologies and tools
+## 💻 Technical Focus
 
 * Python
-* JavaScript
-* React Native
-* Expo
-* SQL
-* Git and GitHub
+* Backend Development
 * REST APIs
-* Software Testing
-* Postman
-* Power Platform
-* Docker and Linux in progress
+* SQL & Relational Databases
+* Object-Oriented Programming
+* Git & GitHub
+* Software Engineering
 
-## 📌 Featured projects
+## 🚀 Projects
+
+### Book API
+
+REST API for book management built with **Java, Spring Boot, and PostgreSQL**, applying CRUD operations, layered architecture, validation, exception handling, and database persistence.
 
 ### FitMap
 
-Mobile application built with React Native and Expo to help users find nearby gyms, compare options, and track workout tasks with photos.
+Mobile application built with **React Native and Expo**, integrating geolocation, interactive maps, public APIs, local authentication, and exercise management.
 
-### Task Manager Backend
+## 🎯 Current Direction
 
-Backend project focused on CRUD operations, task organization, and software development fundamentals.
+I'm currently strengthening my backend development skills and building projects that progressively cover API development, databases, testing, application architecture, and software engineering practices.
 
-## 🎯 Career goal
+My professional goal is to work with **Software Development and Backend Engineering**, especially using Python.
 
-I'm looking for opportunities as a Junior Developer, Backend Junior, QA Automation Junior, Application Developer, or Software Engineer Junior, including remote opportunities for Brazilian and international companies.
+## 🎓 Education
+
+Bachelor's degree in **Software Engineering** — expected December 2026.
+
+## 🔗 Connect with me
+
+LinkedIn: linkedin.com/in/gustavomautoni
